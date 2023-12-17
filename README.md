@@ -16,7 +16,7 @@ Below are some of my projects and thoughts!
 ### <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png" width="24px"/> Visualization | 可视化项目
 - [Manim visualization](https://github.com/TwilightSpar/CO2_Manim)
 ### <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c7.png" width="24px"/> ML Project | 机器学习相关项目
- - [](https://)
+ - [Kaggle competition](https://www.kaggle.com/competitions/playground-series-s3e24/overview) Binary Prediction of Smoker Status using Bio-Signals, team 'yuqiZeng1999', reaches 87 of the AUC score at the private dataset.
  - [](https://)
 ### <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d8.png" width="24px"/> Website Develop | 网站设计与开发
 - [](https://github.com/YukiChinese/Laoshuowei.design.git)
