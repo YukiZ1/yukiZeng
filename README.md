@@ -1,5 +1,4 @@
 # Yuki Zeng
-# Introduction
 
 ## 𝗛𝗶, 𝘁𝗵𝗲𝗿𝗲 
 
@@ -8,6 +7,7 @@ This is Yuki Zeng, a graduate student in Applied Statistics at Pennsylvania Stat
 I'm a voracious, persistent person who is curious about everything around me. I will post some thoughts in here, and the project I have engaged in.
 
 My GitHub info:
+
 <img src="https://github-readme-stats.vercel.app/api?username=YukiChinese&count_private=true&show_icons=true&theme=tokyonight" alt="drawing" width="350"/>
 
 ## Research Interests
@@ -46,7 +46,7 @@ My GitHub info:
 - **Results:** Reaches 87 of the AUC score at the private dataset
 - **interpretability tools:** LIME, SHAP 
 
-## [Project 3: Statistical Modeling for Marketing Strategies](https://github.com/username/project3)
+### [Project 3: Statistical Modeling for Marketing Strategies](https://github.com/username/project3)
 **Description:** This project uses statistical modeling to evaluate and improve marketing strategies.
 - **Data Source:** Marketing campaign data
 - **Methods:** Logistic regression, time series analysis
@@ -55,10 +55,13 @@ My GitHub info:
 Below are some of my projects and thoughts!
 
 
+## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d8.png" width="24px"/> Website Develop | 网站设计与开发
+### [Project 3: A showcasing website for a personal art studio](https://github.com/YukiChinese/Laoshuowei.design.git)
+**Description:** This website build with Bootstrap framework, helping the art studio to showcase their design portfolios and build their brand image.
+- **平台:** 阿里云
+- **Methods:** Bootstrap, HTML, CSS, JavaScript, jQuery
+- **Results:** 稳定运行2年
 
-### <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d8.png" width="24px"/> Website Develop | 网站设计与开发
-- [](https://github.com/YukiChinese/Laoshuowei.design.git)
-- 
 # Publications and Reports
 - [Publication 1: Title of the Paper](https://github.com/username/publication1)
   **Abstract:** Brief description of the publication.
@@ -66,6 +69,5 @@ Below are some of my projects and thoughts!
   **Abstract:** Brief description of the report.
 
 # Contact Information
-- **Email:** ykz5645![image](https://github.com/YukiChinese/yukiZeng/assets/103870129/f2b4e6b6-606b-429f-9ee8-906b8aea836c)
-@psu.edu
+- **Email:** ykz564@psu.edu
 - **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/username)
