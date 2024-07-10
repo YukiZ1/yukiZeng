@@ -51,16 +51,13 @@ My GitHub info:
 **Description:** This project employed Decision Trees, Naive Bayes and BERT models for classification, and conducted LDA for nuanced topic clustering.
 - **Data Source:** data crawled from Weibo and Twitter(X)
 - **Model Selection:** BERT, LDA
-- **Results:** 
+- **Results:** Identified the socio-cultural impact of the pandemic on online communities. Demonstrating the ability to derive meaningful interpretations and insights.
 
 ### [Project 3: Statistical Modeling for Marketing Strategies](https://github.com/username/project3)
 **Description:** This project uses statistical modeling to evaluate and improve marketing strategies.
 - **Data Source:** Marketing campaign data
 - **Methods:** Logistic regression, time series analysis
 - **Results:** Improved marketing strategy effectiveness by 20%
-
-Below are some of my projects and thoughts!
-
 
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d8.png" width="24px"/> Website Develop | 网站设计与开发
 ### [Project 3: A showcasing website for a personal art studio](https://github.com/YukiChinese/Laoshuowei.design.git)
@@ -71,7 +68,7 @@ Below are some of my projects and thoughts!
 
 # Publications and Reports
 - [Publication 1: Research on Cross-cultural Comparison of Users' Social Support Exchange Behaviors in Online Health Communities. Journal of Management Science,2020,33(1):16-29.](https://github.com/username/publication1)
-  **Abstract:** Building a AdaBoost Model for classification based on post text feature and conducting sentiment analysis involving Natural Language Processing, this study is the first attempt to investigate cultural differences in terms of social support exchange through comparing user-generated content in two influential breast-cancer-related online health communities respectively from the US and China.
+- **Abstract:** Building a AdaBoost Model for classification based on post text feature and conducting sentiment analysis involving Natural Language Processing, this study is the first attempt to investigate cultural differences in terms of social support exchange through comparing user-generated content in two influential breast-cancer-related online health communities respectively from the US and China.
 
 # Contact Information
 - **Email:** ykz564@psu.edu
