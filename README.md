@@ -32,13 +32,13 @@ My GitHub info:
 - **Results:** Identified key factors and provided optimization suggestions
 
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png" width="24px"/> Data Analysis Case Study | 数据分析项目
-### [Project 1: Consumer Repurchase Prediction in Online Retail (bachelor thesis)](https://github.com/username/project1)
+### [Project 1: Consumer Repurchase Prediction in Online Retail (bachelor thesis)](https://github.com/YukiZ1/Consumer-Repurchase-Prediction-in-Online-Retail)
 **Description:** This project analyzes purchase data from "JD.com" to predict repurchase behavior, concludes the most important feature influencing repurchase and provides recommendations to improve repurchase rate.
 - **Data Source:** "JD.com" purchase data
 - **Analysis Methods:** Feature engineering, XGBoost
 - **Results:** Achieved an AUC score of 77, identified key features and provided optimization suggestions
 
-### [Project 2: Statistical Exploration of Thermophysical Characteristics in Cheese](https://github.com/username/project2)
+### [Project 2: Statistical Exploration of Thermophysical Characteristics in Cheese](https://github.com/YukiZ1/CheeseAnalysis)
 **Description:** This project mainly discusses whether thermophysical properties differ by texture, how many distinct cheese varieties exist based on these measurements, and whether texture can be predicted from them. The results support the use of thermophysical measurements for distinguishing textures, identifying cheese varieties, and classifying new samples, valuable tools for quality control and product development.
 - **Data Source:** 89 cheese samples
 - **Analysis Methods:** MANOVA, PCA, K-Means, LDA (R code)
@@ -53,17 +53,11 @@ My GitHub info:
 - **Results:** Reached 87 of the AUC score at the private dataset
 - **interpretability tools:** LIME, SHAP 
 
-### [Project 2: Attention and Sentiment Changes of Chinese and American Netizens towards the Pandemic](https://www.kaggle.com/competitions/playground-series-s3e24/overview)
+### [Project 2: Attention and Sentiment Changes of Chinese and American Netizens towards the Pandemic](https://github.com/YukiZ1/Attention-and-Sentiment-Changes-of-Chinese-and-American-Netizens-towards-the-Pandemic)
 **Description:** This project employed Decision Trees, Naive Bayes and BERT models for classification, and conducted LDA for nuanced topic clustering.
 - **Data Source:** data crawled from Weibo and Twitter(X)
 - **Model Selection:** BERT, LDA
 - **Results:** Identified the socio-cultural impact of the pandemic on online communities. Demonstrating the ability to derive meaningful interpretations and insights.
-
-### [Project 3: Statistical Modeling for Marketing Strategies](https://github.com/username/project3)
-**Description:** This project uses statistical modeling to evaluate and improve marketing strategies.
-- **Data Source:** Marketing campaign data
-- **Methods:** Logistic regression, time series analysis
-- **Results:** Improved marketing strategy effectiveness by 20%
 
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d8.png" width="24px"/> Website Develop | 网站设计与开发
 ### [Project 1: A showcasing website for a personal art studio](https://github.com/YukiChinese/Laoshuowei.design.git)
@@ -77,5 +71,5 @@ My GitHub info:
 - **Abstract:** Building a AdaBoost Model for classification based on post text feature and conducting sentiment analysis involving Natural Language Processing, this study is the first attempt to investigate cultural differences in terms of social support exchange through comparing user-generated content in two influential breast-cancer-related online health communities respectively from the US and China.
 
 # Contact Information
-- **Email:** ykz564@psu.edu
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/username)
+- **Email:** ykz564@psu.edu / zengyuqiwzg@gmail.com
+- **LinkedIn:** [Yuqi Zeng](https://www.linkedin.com/in/yuqi-zeng-18453934a/)
