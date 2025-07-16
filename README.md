@@ -13,7 +13,7 @@ My GitHub info:
 ## Research Interests
 - Data Science
 - Machine Learning
-- Bayesian Statistics
+- Applied Statistics
 - High-dimensional Data Analysis
 
 ## Skills and Tools
