@@ -38,16 +38,22 @@ My GitHub info:
 - **Analysis Methods:** Feature engineering, XGBoost
 - **Results:** Achieved an AUC score of 77, identified key features and provided optimization suggestions
 
+### [Project 2: Statistical Exploration of Thermophysical Characteristics in Cheese](https://github.com/username/project2)
+**Description:** This project mainly discusses whether thermophysical properties differ by texture, how many distinct cheese varieties exist based on these measurements, and whether texture can be predicted from them. The results support the use of thermophysical measurements for distinguishing textures, identifying cheese varieties, and classifying new samples, valuable tools for quality control and product development.
+- **Data Source:** 89 cheese samples
+- **Analysis Methods:** MANOVA, PCA, K-Means, LDA (R code)
+- **Results:** MANOVA confirmed significant differences among textures, except between Pasta Filata and Soft. Clustering techniques consistently identified three natural cheese varieties. Linear Discriminant Analysis achieved 100 percent classification accuracy.
+
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c7.png" width="24px"/> Machine Learning Project | 机器学习相关项目
 
-### [Project 2: Binary Prediction of Smoking Status through Bio-Signals – Kaggle Competition](https://www.kaggle.com/competitions/playground-series-s3e24/overview)
+### [Project 1: Binary Prediction of Smoking Status through Bio-Signals – Kaggle Competition](https://www.kaggle.com/competitions/playground-series-s3e24/overview)
 **Description:** This project develops a machine learning model to predict an individual's smoking status. My team is 'yuqiZeng1999'.
 - **Data Source:** Bio-signals data
 - **Model Selection:** XGBoost, LightGBM
 - **Results:** Reached 87 of the AUC score at the private dataset
 - **interpretability tools:** LIME, SHAP 
 
-### [Project 3: Attention and Sentiment Changes of Chinese and American Netizens towards the Pandemic](https://www.kaggle.com/competitions/playground-series-s3e24/overview)
+### [Project 2: Attention and Sentiment Changes of Chinese and American Netizens towards the Pandemic](https://www.kaggle.com/competitions/playground-series-s3e24/overview)
 **Description:** This project employed Decision Trees, Naive Bayes and BERT models for classification, and conducted LDA for nuanced topic clustering.
 - **Data Source:** data crawled from Weibo and Twitter(X)
 - **Model Selection:** BERT, LDA
@@ -60,7 +66,7 @@ My GitHub info:
 - **Results:** Improved marketing strategy effectiveness by 20%
 
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d8.png" width="24px"/> Website Develop | 网站设计与开发
-### [Project 3: A showcasing website for a personal art studio](https://github.com/YukiChinese/Laoshuowei.design.git)
+### [Project 1: A showcasing website for a personal art studio](https://github.com/YukiChinese/Laoshuowei.design.git)
 **Description:** This website build with Bootstrap framework, helping the art studio to showcase their design portfolios and build their brand image.
 - **Cloud server:** Alibaba Cloud ECS
 - **Methods:** Bootstrap, HTML, CSS, JavaScript, jQuery
