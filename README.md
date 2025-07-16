@@ -8,7 +8,7 @@ I'm a voracious, persistent person who is curious about everything around me. I 
 
 My GitHub info:
 
-<img src="https://github-readme-stats.vercel.app/api?username=YukiChinese&count_private=true&show_icons=true&theme=tokyonight" alt="drawing" width="350"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YukiZ1&count_private=true&show_icons=true&theme=tokyonight" alt="drawing" width="350"/>
 
 ## Research Interests
 - Data Science
