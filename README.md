@@ -21,10 +21,9 @@ I'm a voracious, persistent person who is curious about everything around me. I 
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png" width="24px"/> Visualization | 可视化项目
 
 ### [Project 1: Manim visualization](https://github.com/TwilightSpar/CO2_Manim)
-**Description:** This project analyzes sales data from a company to identify key factors influencing sales and provides recommendations to improve sales performance.
-- **Data Source:** Sales data provided by the company
-- **Analysis Methods:** Regression analysis, hypothesis testing
-- **Results:** Identified key factors and provided optimization suggestions
+**Description:** Assisted a classmate in creating Manim animations for a presentation in the Mathematical Biology (Spring 2022) course. The presentation was based on the paper "CO2 Control of the Respiratory System: Plant Dynamics and Stability Analysis" by Ahmed ElHefnawy, Gerald M. Saidel, and Eugen N. Bruce.
+- **Analysis Methods:** Manim
+- **Results:** Produced clear animated visualizations to illustrate complex biological concepts.
 
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png" width="24px"/> Data Analysis Case Study | 数据分析项目
 ### [Project 1: Consumer Repurchase Prediction in Online Retail (bachelor thesis)](https://github.com/YukiZ1/Consumer-Repurchase-Prediction-in-Online-Retail)
