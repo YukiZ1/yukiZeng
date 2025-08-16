@@ -7,15 +7,14 @@ This is Yuki Zeng, a graduate student in Applied Statistics at Pennsylvania Stat
 I'm a voracious, persistent person who is curious about everything around me. I will post some thoughts in here, and the project I have engaged in.
 
 ## Research Interests
-- Data Science
-- Machine Learning
+- Data Science & Machine Learning
 - Applied Statistics
-- High-dimensional Data Analysis
+- Data Analysis
 
 ## Skills and Tools
 - Programming Languages: Python, R, SQL
-- Statistical Software: SAS, SPSS
-- Development Tools: Git, Jupyter Notebook
+- Statistical & Data Analysis Tools: SAS, SPSS, Excel, Pandas, NumPy
+- Development & Collaboration Tools: Git, Jupyter Notebook, VS code
 
 # Projects Showcase
 
