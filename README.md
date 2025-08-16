@@ -44,6 +44,13 @@ My GitHub info:
 - **Analysis Methods:** MANOVA, PCA, K-Means, LDA (R code)
 - **Results:** MANOVA confirmed significant differences among textures, except between Pasta Filata and Soft. Clustering techniques consistently identified three natural cheese varieties. Linear Discriminant Analysis achieved 100 percent classification accuracy.
 
+### [Project 3: Data-Driven House Price Prediction](https://github.com/YukiZ1/Data-Driven-House-Price-prediction)
+**Description:** Built and compared **regularized regression** and **XGBoost** models to predict house prices. XGBoost achieved the best performance with the lowest RMSE. And results were presented to stakeholders.
+
+- **Data Source:** 279 house samples from three neighborhoods, 38-feature dataset with multicollinearity 
+- **Analysis Methods:** Ridge Regression, Lasso Regression, Elastic Net, XGBoost
+- **Results:** XGBoost achieved **RMSE = 24604.36, PRMSE = 15.57%, R^2 = 0.87**; And identified top predictors (Overall Quality, Ground Living Area, House Age) using variable importance plots.
+
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c7.png" width="24px"/> Machine Learning Project | 机器学习相关项目
 
 ### [Project 1: Binary Prediction of Smoking Status through Bio-Signals – Kaggle Competition](https://www.kaggle.com/competitions/playground-series-s3e24/overview)
