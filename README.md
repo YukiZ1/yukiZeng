@@ -9,14 +9,34 @@ I'm a voracious, persistent person who is curious about everything around me. I 
 ## Research Interests
 - Data Science & Machine Learning
 - Applied Statistics
-- Data Analysis
+- Deep learning
 
 ## Skills and Tools
 - Programming Languages: Python, R, SQL
+- Machine learning: sklearn, pytorch
 - Statistical & Data Analysis Tools: SAS, SPSS, Excel, Pandas, NumPy
 - Development & Collaboration Tools: Git, Jupyter Notebook, VS code
 
 # Projects Showcase
+
+## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c7.png" width="24px"/> Machine Learning Project | 机器学习相关项目
+### [Project 1: Grokking moment of LLM – Interpretation of LLM](https://github.com/YukiZ1/grokking_paper_reproduction)
+**Description:** This project reproduces the **"Grokking"** phenomenon in Transformer model on a simple task.
+- **Custom Transformer Architecture:** Deeply understand the structure of Transformer model and mannually implement the model
+- **Visualization:** Upskilling and implement to **Hook** function to drill down to a single layer in a complex model. And plot the neuron output for pattern recognition.
+
+### [Project 2: Binary Prediction of Smoking Status through Bio-Signals – Kaggle Competition](https://www.kaggle.com/competitions/playground-series-s3e24/overview)
+**Description:** This project develops a machine learning model to predict an individual's smoking status. My team is 'yuqiZeng1999'.
+- **Data Source:** Bio-signals data
+- **Model Selection:** XGBoost, LightGBM
+- **Results:** Reached 87 of the AUC score at the private dataset
+- **interpretability tools:** LIME, SHAP 
+
+### [Project 3: Attention and Sentiment Changes of Chinese and American Netizens towards the Pandemic](https://github.com/YukiZ1/Attention-and-Sentiment-Changes-of-Chinese-and-American-Netizens-towards-the-Pandemic)
+**Description:** This project employed Decision Trees, Naive Bayes and BERT models for classification, and conducted LDA for nuanced topic clustering.
+- **Data Source:** data crawled from Weibo and Twitter(X)
+- **Model Selection:** BERT, LDA
+- **Results:** Identified the socio-cultural impact of the pandemic on online communities. Demonstrating the ability to derive meaningful interpretations and insights.
 
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png" width="24px"/> Visualization | 可视化项目
 
@@ -44,21 +64,6 @@ I'm a voracious, persistent person who is curious about everything around me. I 
 - **Data Source:** 279 house samples from three neighborhoods, 38-feature dataset with multicollinearity 
 - **Analysis Methods:** Ridge Regression, Lasso Regression, Elastic Net, XGBoost
 - **Results:** XGBoost achieved **RMSE = 24604.36, PRMSE = 15.57%, R^2 = 0.87**; And identified top predictors (Overall Quality, Ground Living Area, House Age) using variable importance plots.
-
-## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c7.png" width="24px"/> Machine Learning Project | 机器学习相关项目
-
-### [Project 1: Binary Prediction of Smoking Status through Bio-Signals – Kaggle Competition](https://www.kaggle.com/competitions/playground-series-s3e24/overview)
-**Description:** This project develops a machine learning model to predict an individual's smoking status. My team is 'yuqiZeng1999'.
-- **Data Source:** Bio-signals data
-- **Model Selection:** XGBoost, LightGBM
-- **Results:** Reached 87 of the AUC score at the private dataset
-- **interpretability tools:** LIME, SHAP 
-
-### [Project 2: Attention and Sentiment Changes of Chinese and American Netizens towards the Pandemic](https://github.com/YukiZ1/Attention-and-Sentiment-Changes-of-Chinese-and-American-Netizens-towards-the-Pandemic)
-**Description:** This project employed Decision Trees, Naive Bayes and BERT models for classification, and conducted LDA for nuanced topic clustering.
-- **Data Source:** data crawled from Weibo and Twitter(X)
-- **Model Selection:** BERT, LDA
-- **Results:** Identified the socio-cultural impact of the pandemic on online communities. Demonstrating the ability to derive meaningful interpretations and insights.
 
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d8.png" width="24px"/> Website Develop | 网站设计与开发
 ### [Project 1: A showcasing website for a personal art studio](https://github.com/YukiChinese/Laoshuowei.design.git)
